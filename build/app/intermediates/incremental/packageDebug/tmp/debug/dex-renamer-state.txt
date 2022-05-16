@@ -1,0 +1,10 @@
+#Fri Apr 22 14:09:08 EDT 2022
+base.2=/Users/brandonbanner/Pairings/build/app/intermediates/dex/debug/mergeLibDexDebug/classes_0.dex
+path.2=classes_0.dex
+base.1=/Users/brandonbanner/Pairings/build/app/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+path.1=classes.dex
+base.0=/Users/brandonbanner/Pairings/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
